@@ -5,13 +5,6 @@
     background-size: cover;
 }
 
-.container text-center {
-    /* align-items: center;
-    justify-content: center;
-    justify-items: center; */
-    /* padding-top: 50px!important; */
-}
-
 #welcome {
     color: white !important;
 }
@@ -23,4 +16,17 @@
 #AboutUs {
     padding-top: 50px;
     line-height: 2em;
+}
+
+#OurServices {
+    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    height: 98vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh;
+}
+
+#services {
+    color: white !important;
+    padding-top: 120px!important;
 }

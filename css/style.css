@@ -24,9 +24,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 45vh;
+    margin-top: 50px;
 }
 
 #services {
     color: white !important;
     padding-top: 120px!important;
+}
+
+#WhatWeDo>img:hover {
+    display: none;
 }

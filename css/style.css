@@ -1,7 +1,21 @@
 #first {
     background-image: url(../IP3/assets/backgrounds/first\ ackground.jpg);
-    /* background-color: blue; */
-    height: 90vh;
+    height: 98vh;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.container text-center {
+    /* align-items: center;
+    justify-content: center;
+    justify-items: center; */
+    /* padding-top: 50px!important; */
+}
+
+#welcome {
+    color: white !important;
+}
+
+#paragraph {
+    padding-top: 190px!important;
 }

@@ -1,0 +1,7 @@
+#first {
+    background-image: url(../IP3/assets/backgrounds/first\ ackground.jpg);
+    /* background-color: blue; */
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -37,3 +37,25 @@
 #WhatWeDo>img:hover {
     display: none;
 }
+
+#Portfolio {
+    padding-top: 50px;
+}
+
+#ContactUs {
+    background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    background-position: center;
+    margin-top: 50px;
+}
+
+#footer {
+    font-size: small;
+}
+
+.col img {
+    height: 200px;
+}

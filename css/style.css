@@ -1,8 +1,10 @@
 #first {
     background-image: url(../IP3/assets/backgrounds/first\ ackground.jpg);
-    height: 98vh;
+    height: 110vh;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: grey;
+    background-position: center;
 }
 
 #welcome {

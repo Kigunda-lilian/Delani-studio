@@ -1,5 +1,5 @@
 #first {
-    background-image: url(../IP3/assets/backgrounds/first\ ackground.jpg);
+    background-image: url(../ASSETS/backgrounds/first\ ackground.jpg);
     height: 110vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +21,7 @@
 }
 
 #OurServices {
-    background-image: url(../IP3/assets/backgrounds/s_image.jpg);
+    background-image: url(../ASSETS/backgrounds/s_image.jpg);
     height: 98vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@
 }
 
 #ContactUs {
-    background-image: url(../IP3/assets/backgrounds/c_image.jpg);
+    background-image: url(../ASSETS/backgrounds/c_image.jpg);
     height: 85vh;
     background-repeat: no-repeat;
     background-size: cover;

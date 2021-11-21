@@ -59,3 +59,17 @@
 .col img {
     height: 200px;
 }
+
+#ContactUs h3 {
+    color: white;
+}
+
+#contact-form,
+#text_area {
+    background-color: transparent !important;
+    border: 1px solid white;
+}
+
+::placeholder {
+    color: white !important;
+}

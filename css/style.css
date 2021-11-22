@@ -73,10 +73,6 @@
     color: white !important;
 }
 
-button {
-    background-color: rgb(115, 70, 146)!important;
-}
-
 #btn:hover {
     background-color: thistle !important;
     color: black;

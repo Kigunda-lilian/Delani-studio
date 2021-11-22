@@ -1,5 +1,5 @@
 #first {
-    /* background-image: url(/ASSETS/f_image.jpg); */
+    background-image: url(../ASSETS/f_image.jpg);
     height: 110vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -21,7 +21,7 @@
 }
 
 #OurServices {
-    background-image: url(/ASSETS/s_image.jpg);
+    background-image: url(../ASSETS/s_image.jpg);
     height: 98vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@
 }
 
 #ContactUs {
-    background-image: url(/ASSETS/c_image.jpg);
+    background-image: url(../ASSETS/c_image.jpg);
     height: 85vh;
     background-repeat: no-repeat;
     background-size: cover;

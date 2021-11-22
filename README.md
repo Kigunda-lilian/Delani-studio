@@ -33,10 +33,11 @@ It is our desire to showcase outstanding designs and train world class designers
 ###### The website is set up using html,javascript, and css 
 ## Dependencies
 ###### Bootstrap and jquery
-![Delani studio](/Delani Studio.jpg)
 
-## Delani Studio
 
+
+## Delani_Studio
+![Delani_studio](/ASSETS/Delani Studio.jpg)
 
 ## Contacts
 ----

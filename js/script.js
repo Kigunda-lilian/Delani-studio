@@ -28,7 +28,27 @@ $(document).ready(function() {
 
 $("#work1").hover(
     function() {
-        $(".Name").slideDown(2000);
+        $(".Name").show("3000");
     },
+    function() {
+        $(".Name").hide("3000");
+    }
+);
 
+$("#work2").hover(
+    function() {
+        $(".Name").slideUp("3000");
+    }
+);
+
+$("#work3").hover(
+    function() {
+        $(".Name").slideDown("3000");
+    }
+);
+
+$("#work4").hover(
+    function() {
+        $(".Name").slideToggle("3000");
+    }
 );

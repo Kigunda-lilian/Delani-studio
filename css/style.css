@@ -79,3 +79,13 @@
     background-color: thistle !important;
     color: black;
 }
+
+.Name {
+    display: none;
+    position: relative;
+    color: white;
+}
+
+.image1 {
+    position: absolute;
+}

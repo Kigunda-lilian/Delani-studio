@@ -82,7 +82,7 @@
 
 .Name {
     display: none;
-    position: relative;
+    /* position: relative; */
     color: white;
 }
 

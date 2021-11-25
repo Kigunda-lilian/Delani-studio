@@ -28,7 +28,7 @@ $(document).ready(function() {
 
 $("#work1").hover(
     function() {
-        $(".Name").show("3000");
+        $(".Name1").show("3000");
     },
     function() {
         $(".Name").hide("3000");
@@ -37,7 +37,7 @@ $("#work1").hover(
 
 $("#work2").hover(
     function() {
-        $(".Name").slideUp("3000");
+        $(".Name").slideDown("3000");
     }
 );
 
@@ -49,6 +49,6 @@ $("#work3").hover(
 
 $("#work4").hover(
     function() {
-        $(".Name").slideToggle("3000");
+        $(".Name").slideDown("3000");
     }
 );
